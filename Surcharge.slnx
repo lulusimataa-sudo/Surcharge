@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Surcharge/Surcharge.vcxproj" Id="63b5d7e8-c33b-4bcf-92fe-a3e95895cf8b" />
+</Solution>
